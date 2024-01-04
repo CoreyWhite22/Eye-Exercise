@@ -1,6 +1,6 @@
 # Eye Exercise
 ## test
-<img src= "oneeye.png" width='300'/>
+<img src="Eyes.png" width='300'/>
 
 Description:
 
