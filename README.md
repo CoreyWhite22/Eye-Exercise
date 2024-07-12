@@ -2,6 +2,6 @@
 
 <img src="Eyes.png" width='300'/>
 
-Wherever you move your mouse, the eyes will follow you there.
+Move your mouse and the eyes will follow it.
 
 
